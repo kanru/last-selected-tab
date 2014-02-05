@@ -1,0 +1,15 @@
+{
+  "name": "last-selected-tab",
+  "title": "Last Selected Tab",
+  "id": "jid1-KjYdlOL6zLCcsg",
+  "description": "Allow quick switch between last used tabs, the default hotkey is Control-.",
+  "author": "Kan-Ru Chen <kanru@kanru.info>",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+    "name": "hotkey",
+    "title": "Hot-key for switching tabs",
+    "type": "string",
+    "value": "Control-."
+  }]
+}
